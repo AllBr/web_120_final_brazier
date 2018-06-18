@@ -2,22 +2,21 @@
   <section>
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
-      <h3>ABOUT Solomon</h3>
-      <p><strong>INFO GOES HERE</strong></p>
+      <h3>Solomon's work</h3>
+      <p><strong>Current Position</strong></p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 
-		      <p><strong>MORE INFO GOES HERE</strong></p>
+		      <p><strong>Side-Projects</strong></p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
 	
 		
 		
     </article>
     <aside class="right_article">
-	 <p><strong>MORE INFO OR A PICTURE GOES HERE</strong></p>
+	 <p><strong>Work Photo Here</strong></p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-		 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-		 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
 	</aside>
   </section>
   <div class="row"></div>
@@ -28,5 +27,9 @@
     <p class="social_icon">&nbsp;</p>
     <p class="social_icon">&nbsp;</p>
   </div>
-
-<?php include "includes/footer.php"?>
+  <footer class="secondary_header footer">
+    <div class="copyright">&copy;2018 - <strong>Solomon Askanaw ~ <a href="http://validator.w3.org/check/referer">[Valid HTML]</a> <a href="http://jigsaw.w3.org/css-validator/check?uri=referer">[Valid CSS]</a></strong></div>
+  </footer>
+</div>
+</body>
+</html>
